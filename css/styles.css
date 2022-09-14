@@ -1,0 +1,70 @@
+body{
+    background-color: #F9F9F9;
+    text-align: center;
+}
+h1 {
+    
+    font-family: 'Montserrat';
+    font-size: 5rem;
+    font-style: italic;
+    
+}
+.top-container{
+    margin-top: 5rem;
+    text-align: center;
+    font-family: 'Ubuntu';
+}
+.top-container a{
+    color:rgb(118, 105, 105);
+}
+.feature-img{
+    width:150px;
+    height: 80px;
+    margin-bottom: 2rem;
+}
+.bottom-container{
+    margin-top: 3rem;
+    text-align: center;
+   margin-left: 5rem;
+   margin-right: 5rem;
+}
+#products{
+    margin-top: 10rem;
+    background-color: #EFEFEF;
+}
+.card{
+    margin-top: 3rem;
+    margin-bottom:3rem;
+    display: inline-block;
+    margin-right:1.5rem;
+    margin-left: 1.5rem;
+}
+.card{
+background-color: #EFEFEF;
+border-style: hidden;
+}
+.card-img{
+    width: 200px;
+    height: 200px;
+    background:white;
+    border-radius: 50%;
+   
+    
+}
+.card-img:hover{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    
+}
+#footer{
+    padding-top:3rem;
+}
+.last-p{
+    font-family: Ubuntu;
+    font-size:1rem;
+    line-height: 2.5rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    color:2C3639;
+}
